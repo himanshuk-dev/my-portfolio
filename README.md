@@ -1,6 +1,6 @@
 <h1>MY Portfolio</h1>
 
-Hello! Thank you for isiting my profile. This is my first project where I created my portfolio using CSS, HTML and interactive design.
+Hello! Thank you for visiting my profile. This is my first project where I created my portfolio using CSS, HTML and interactive design.
 
 The layout changes based on the view port of area depedning on which device you are seeing it on.
 
