@@ -1,4 +1,4 @@
-<h1>MY Portfolio</h1>
+<h1>My Portfolio</h1>
 
 Hello! Thank you for visiting my profile. This is my first project where I created my portfolio using CSS, HTML and interactive design.
 
